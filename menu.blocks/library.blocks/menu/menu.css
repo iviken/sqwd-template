@@ -1,0 +1,9 @@
+.menu {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.menu_decor {
+    text-decoration: none;
+    color: inherit;
+}

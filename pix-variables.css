@@ -1,0 +1,34 @@
+:root {
+    /*All sections*/
+    --document-margin: 1.5%;
+
+    /*Section 0*/
+    --section-0-height: 100vh;
+    --section-0-pix: url("section-0-pix.png");
+
+    /*We are*/
+    --we-are-height: 65vh;
+    --we-are-pix: url("we-are.png");
+
+    /*Services*/
+    --card-padding: 1.5vw;
+    --black-point: url("black-point.png");
+    --services_design-pix: url("Oval-paensilCase-opacity.png");
+    --services_design-pix_hover: url("Oval-paensilCase.png");
+    --services_branding-pix: url("Oval-graphicDesign-opacity.png");
+    --services_branding-pix_hover: url("Oval-graphicDesign.png");
+    --services_dev-pix: url("Oval-coding-opacity.png");
+    --services_dev-pix_hover: url("Oval-coding.png");
+
+    /*Works*/
+    --works-pix-1: url("kitten-pix.png");
+    --works-pix-2: url("notebook-pix.png");
+    --works-pix-3: url("camera-pix.png");
+    --works-pix-4: url("mac-pix.png");
+
+    /*The team*/
+    --the-team_card-height: 40vh;
+    --tom-jones-pix: url("tom-jones-pix.png");
+    --mishael-fraup-pix: url("mishael-fraup-pix.png");
+    --tim-cahill-pix: url("tim-cahill-pix.png");
+}

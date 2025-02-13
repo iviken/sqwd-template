@@ -1,0 +1,63 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Oswald Regular', sans-serif;
+    font-family: 'Oswald Stencil', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans Light', sans-serif;
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.h1 {
+    font-size: 3.3rem;
+    font-weight: 500;
+    font-style: normal;
+    letter-spacing: .2rem;
+    font-family: 'Oswald';
+}
+
+.h2 {
+    font-size: 2rem;
+    line-height: 1.5;
+    font-family: 'Oswald';
+    color: var(--h2-color);
+}
+
+.h3 {
+    font-size: 1rem;
+    font-weight: 100;
+    line-height: .4rem;
+}
+
+.h4 {
+    font-size: .8rem;
+    font-weight: 400;
+    min-height: .4rem;
+    letter-spacing: .08rem;
+    mix-blend-mode: normal;
+    font-family: 'Open Sans';
+    font-style: normal;
+}
+
+.text_description {
+    font-size: .7rem;
+    font-weight: 300;
+    letter-spacing: .02rem;
+    font-family: 'Open Sans';
+    color: var(--h5-color);
+}
+
+.font-weight-100 {
+    font-weight: 100;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.logo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.8rem;
+    font-family: 'Oswald';
+    color: var(--logo-text-color);
+}

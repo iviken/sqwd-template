@@ -1,0 +1,27 @@
+.main__we-are {
+    height: var(--we-are-height);
+    justify-content: space-between;
+}
+
+.main__we-are_pix {
+    background-image: var(--we-are-pix);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: auto 100%;
+}
+
+.we-are__text-box-1 {
+    width: 30%;
+}
+
+.we-are__text-box-2 {
+    width: 30%;
+    justify-content: end;
+    padding-bottom: 2rem;
+}
+
+.we-are__header-text {
+    max-width: 60%;
+    display: flex;
+    flex-wrap: wrap;
+}

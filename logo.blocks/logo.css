@@ -1,0 +1,6 @@
+.logo {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 1.8rem;
+    color: var(--logo-text-color);
+}

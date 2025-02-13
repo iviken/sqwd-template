@@ -1,0 +1,15 @@
+.main__quote {
+    max-width: 40%;
+    padding: 5rem;
+}
+
+.quote-text {
+    line-height: 2rem;
+}
+
+.menu__item_raiting {
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: .5rem;
+    padding-right: .5rem;
+}

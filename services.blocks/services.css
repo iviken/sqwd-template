@@ -1,0 +1,74 @@
+.main__services {
+    padding-top: 7%;
+    padding-bottom: 10%;
+}
+
+.card-services {
+    flex-grow: 1;
+    max-height: 30vh;
+    padding: var(--card-padding);
+    margin: .5rem;
+}
+
+.card-services_white-transition-border {
+    border: solid;
+    border-color: var(--card-color);
+    transition: border-color .5s;
+}
+
+.card__description-box {
+    max-width: 100%;
+    max-height: 60%;
+}
+
+.card-services_white-transition-border:hover {
+    border: solid;
+    border-color: var(--card-color) var(--card-color) var(--card-bottom-border-color) var(--card-color);
+}
+
+.card-services_design-pix {
+    background: var(--services_design-pix) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card-services_design-pix:hover {
+    background: var(--services_design-pix_hover) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card-services_branding-pix {
+    background: var(--services_branding-pix) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card-services_branding-pix:hover {
+    background: var(--services_branding-pix_hover) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card-services_dev-pix {
+    background: var(--services_dev-pix) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card-services_dev-pix:hover {
+    background: var(--services_dev-pix_hover) 95% 8% / 30% auto no-repeat,
+        var(--black-point) var(--card-padding) 3.5rem / 11% 2px no-repeat,
+        var(--card-color) 100% no-repeat;
+}
+
+.card__button {
+    border: 0;
+    background-color: inherit;
+    padding: 0;
+    margin: .5rem 0;
+}
+
+.card__read-more_black-hover:hover {
+    color: var(--card-read-more-color);
+}

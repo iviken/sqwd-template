@@ -1,0 +1,12 @@
+.main__section-0 {
+    height: var(--section-0-height);
+}
+
+.main__section_we-are {
+    padding-top: 15vh;
+    padding-bottom: 15vh;
+}
+
+.main__section_color {
+    background-color: var(--sections-bgcolor);
+}

@@ -1,0 +1,21 @@
+.menu {
+    font-family: "Oswald";
+    font-style: normal;
+    font-weight: 300;
+    font-size: .6rem;
+    letter-spacing: .05rem;
+}
+
+.menu_type-color {
+    color: var(--menu-text-color);
+}
+
+.menu_type-color:hover {
+    text-decoration: underline;
+    text-decoration-color: var(--menu-text-decor-color);
+}
+
+.menu_type-underline {
+    text-decoration: underline;
+    text-decoration-color: var(--menu-text-decor-color);
+}

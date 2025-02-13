@@ -1,0 +1,42 @@
+:root{
+    /*Fonts*/
+    --h2-color: #333333;
+    --h5-color:gray;
+
+    /*Sections*/
+    --sections-bgcolor: #f8f8f8;
+
+    /*Logo*/
+    --logo-text-color: white;
+
+    /*Menu*/
+    --menu-text-color: aliceblue;
+    --menu-text-decor-color: #559200;
+
+    /*Section 0*/
+    --section-0-bgcolor: black;
+    --section-0-text-1-color: white;
+    --section-0-text-2-color: rgba(255,255,255,.7);
+
+    /*Services*/
+    --card-color: white;
+    --card-bottom-border-color: green;
+    --card-read-more-color: black;
+
+    /*Works*/
+    --works-menu-text-color: lightgray;
+    --works-menu-text-color_hover: black;
+    --works-text-throuhg-color: green;
+    --works-text-more-color: black;
+
+    /*Team*/
+    --the-team_card-description-color: rgba(255, 255, 255, .5);
+
+    /*Footer*/
+    --footer_top-left-bgcolor: whitesmoke;
+    --footer_top-right-bgcolor: green;
+    --footer_middle-bgcolor: #2f2f2f;
+    --footer_bottom-bgcolor: #1f1f1f;
+    --footer_top-right-txtcolor: whitesmoke;
+    --envelope-color: whitesmoke;
+}

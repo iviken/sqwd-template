@@ -1,0 +1,27 @@
+.main__team {
+    padding-top: 7%;
+    padding-bottom: 7%;
+    width: 100%;
+}
+
+.card_the-team {
+    height: var(--the-team_card-height);
+    flex-grow: 1;
+    margin: .5rem;
+    justify-content: flex-end;
+}
+
+.card__description_the-team-white-theme{
+    width: 100%;
+    background-color: var(--the-team_card-description-color);
+}
+
+.card_the-team-tom-jones-pix {
+    background: var(--tom-jones-pix) no-repeat center / cover;
+}
+.card_the-team-tim-cahill-pix{
+    background: var(--tim-cahill-pix) no-repeat center / cover;
+}
+.card_the-team-mishael-fraup-pix{
+    background: var(--mishael-fraup-pix) no-repeat center / cover;
+}

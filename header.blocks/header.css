@@ -1,0 +1,24 @@
+.header {
+    position: fixed;
+    top: auto;
+    left: auto;
+    width: 100%;
+}
+
+.header__box {
+    margin: auto;
+    width: 75%;
+}
+
+.header__list {
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.header__logo {
+    width: 50%;
+}
+
+.header__menu {
+    margin: auto;
+}

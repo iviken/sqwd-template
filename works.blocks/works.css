@@ -1,0 +1,77 @@
+.main__works {
+    padding-top: 8%;
+    padding-bottom: 8%;
+}
+
+.works {
+    justify-content: space-between;
+}
+
+/* MENU */
+
+.works__menu-section {
+    width: 100%;
+}
+
+.works__menu-item {
+    flex-basis: auto;
+    flex-grow: 1;
+}
+
+.works__menu_type-color {
+    color: var(--works-menu-text-color);
+}
+
+.works__menu_type-color:hover {
+    color: var(--works-menu-text-color_hover);
+    font-style: italic;
+}
+
+/* CARDS */
+
+.works-card {
+    height: 25rem;
+}
+
+.works-card_name {
+    display: block;
+    width: 37%;
+}
+
+.works__card-header-box {
+    height: 75%;
+}
+
+.works__card-description-box {
+    height: 30%;
+    width: 50%;
+}
+
+.works__card_pix-1 {
+    background: var(--works-pix-1) no-repeat 0 0 / 80% auto;
+}
+
+.works__card_pix-2 {
+    background: var(--works-pix-2) no-repeat 0 0 / 80% auto;
+}
+
+.works__card_pix-3 {
+    background: var(--works-pix-3) no-repeat 100% 0 / 80% auto;
+}
+
+.works__card_pix-4 {
+    background: var(--works-pix-4) no-repeat 100% 0 / 80% auto;
+}
+
+.works__card_text-padding-left {
+    padding-left: 30%;
+}
+
+.works_text-through {
+    text-decoration: line-through;
+    text-decoration-color: var(--works-text-throuhg-color);
+}
+
+.works-card_top-margin{
+    margin-top: 3rem;
+}
